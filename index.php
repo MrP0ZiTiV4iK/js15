@@ -19,6 +19,9 @@
         <li>
             <a href="/array">Массивы</a>
         </li>
+        <li>
+            <a href="/object">Ассациотивные массивы</a>
+        </li>
     </ul>
 
         <?php
