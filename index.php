@@ -20,7 +20,7 @@
             <a href="/array">Массивы</a>
         </li>
         <li>
-            <a href="/object">Ассациотивные массивы</a>
+            <a href="/array/object">Ассациотивные массивы</a>
         </li>
     </ul>
 
